@@ -160,7 +160,7 @@ Statistical analysis toolkit for historical lottery draw data. Demonstrates appl
 
 ## Background
 
-- **MSc Data Science & Data Analysis** — Università degli Studi Niccolò Cusano (2022) · 110/110 e Lode
+- **Master di I livello in Data Analysis** — Università degli Studi Niccolò Cusano (2022) · 110/110 e Lode
 - **BSc Statistics and Actuarial Science** — Università degli Studi di Roma "La Sapienza" (1995) · 96/110
 - **LinkedIn:** [linkedin.com/in/carlozazzarino](https://linkedin.com/in/carlozazzarino)
 
