@@ -2,7 +2,7 @@
 
 Personal portfolio of data science and analysis projects built alongside a Master di I livello in Data Analyst (110/110 e Lode, Università Niccolò Cusano, 2022).
 
-My background is IT Operations leadership — 25+ years, most recently as IT Operations Lead / Regional Site Lead at Bureau van Dijk across a 6-site EMEA estate. These projects reflect my applied interest in bridging IT operations with data science, statistical analysis, and machine learning.
+My background is IT Operations — 25+ years, most recently as IT Operations Lead / Regional Site Lead at Bureau van Dijk across a 6-site EMEA estate. These projects reflect my applied interest in bridging IT operations with data science, statistical analysis, and machine learning.
 
 ---
 
